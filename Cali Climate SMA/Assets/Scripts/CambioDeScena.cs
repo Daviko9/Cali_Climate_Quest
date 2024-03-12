@@ -19,6 +19,14 @@ public class CambioDeScena : MonoBehaviour
     {
         SceneManager.LoadScene("Nivel#3");
     }
+    public void IrJuego1()
+    {
+        SceneManager.LoadScene("Juego1");
+    }
+    public void Dialogos()
+    {
+        SceneManager.LoadScene("Dialogos");
+    }
 
     public void Salir()
     {
