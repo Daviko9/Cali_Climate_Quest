@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 744fc5e4e94906443a2fbf396895bf38
+guid: 459adb539a2d0984197a876fd10a8f35
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 2932093670209900612
-    second: marco para texto_0
+      213: -5064824821643514981
+    second: Boton 3_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: marco para texto_0
+      name: Boton 3_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 1024
-        height: 576
+        x: 162
+        y: 151
+        width: 700
+        height: 275
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -127,8 +127,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 440580d78a3e0b820800000000000000
-      internalID: 2932093670209900612
+      spriteID: b9b6b58c8a026b9b0800000000000000
+      internalID: -5064824821643514981
       vertices: []
       indices: 
       edges: []
@@ -144,7 +144,7 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      marco para texto_0: 2932093670209900612
+      Boton 3_0: -5064824821643514981
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

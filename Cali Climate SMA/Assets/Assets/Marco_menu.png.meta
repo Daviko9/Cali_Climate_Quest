@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 744fc5e4e94906443a2fbf396895bf38
+guid: 54e2fd8b5947e8246955a079122fde45
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 2932093670209900612
-    second: marco para texto_0
+      213: 6520602303159975449
+    second: Marco_menu_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,7 +113,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: marco para texto_0
+      name: Marco_menu_0
       rect:
         serializedVersion: 2
         x: 0
@@ -127,8 +127,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 440580d78a3e0b820800000000000000
-      internalID: 2932093670209900612
+      spriteID: 91eb1714f35dd7a50800000000000000
+      internalID: 6520602303159975449
       vertices: []
       indices: 
       edges: []
@@ -144,7 +144,7 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      marco para texto_0: 2932093670209900612
+      Marco_menu_0: 6520602303159975449
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

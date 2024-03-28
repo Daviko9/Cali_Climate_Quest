@@ -1,10 +1,16 @@
 fileFormatVersion: 2
-guid: 744fc5e4e94906443a2fbf396895bf38
+guid: 6c0db129fa02df848b080c969ef96406
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 2932093670209900612
-    second: marco para texto_0
+      213: -537206894281221159
+    second: BoteBasura2_0
+  - first:
+      213: 2739025926454547928
+    second: BoteBasura2_1
+  - first:
+      213: -1331132898311131578
+    second: BoteBasura2_2
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,13 +119,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: marco para texto_0
+      name: BoteBasura2_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 1024
-        height: 576
+        x: 43
+        y: 827
+        width: 19
+        height: 8
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -127,8 +133,50 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 440580d78a3e0b820800000000000000
-      internalID: 2932093670209900612
+      spriteID: 9db1a770d257b88f0800000000000000
+      internalID: -537206894281221159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoteBasura2_1
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 0
+        width: 712
+        height: 1015
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d598e07199f20620800000000000000
+      internalID: 2739025926454547928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoteBasura2_2
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 829
+        width: 34
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64e245f7eadd68de0800000000000000
+      internalID: -1331132898311131578
       vertices: []
       indices: 
       edges: []
@@ -144,7 +192,9 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      marco para texto_0: 2932093670209900612
+      BoteBasura2_0: -537206894281221159
+      BoteBasura2_1: 2739025926454547928
+      BoteBasura2_2: -1331132898311131578
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

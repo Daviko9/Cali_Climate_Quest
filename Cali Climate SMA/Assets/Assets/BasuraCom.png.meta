@@ -1,10 +1,22 @@
 fileFormatVersion: 2
-guid: 744fc5e4e94906443a2fbf396895bf38
+guid: 6485adfc72380744cad7dcccb6ee0998
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 2932093670209900612
-    second: marco para texto_0
+      213: -649316558960854988
+    second: BasuraCom_0
+  - first:
+      213: 3467515352269023065
+    second: BasuraCom_1
+  - first:
+      213: -568479103487087455
+    second: BasuraCom_2
+  - first:
+      213: 4317559352576242134
+    second: BasuraCom_3
+  - first:
+      213: -2512753579002520261
+    second: BasuraCom_4
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,13 +125,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: marco para texto_0
+      name: BasuraCom_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 1024
-        height: 576
+        x: 324
+        y: 511
+        width: 11
+        height: 8
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -127,8 +139,92 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 440580d78a3e0b820800000000000000
-      internalID: 2932093670209900612
+      spriteID: 438fb54a70a2df6f0800000000000000
+      internalID: -649316558960854988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BasuraCom_1
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 0
+        width: 618
+        height: 1005
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 957653957d61f1030800000000000000
+      internalID: 3467515352269023065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BasuraCom_2
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 62
+        width: 179
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ac6b6e644b5c18f0800000000000000
+      internalID: -568479103487087455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BasuraCom_3
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 384
+        width: 90
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d1f8f21b5d0beb30800000000000000
+      internalID: 4317559352576242134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BasuraCom_4
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 0
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3d967bdee7e02dd0800000000000000
+      internalID: -2512753579002520261
       vertices: []
       indices: 
       edges: []
@@ -144,7 +240,11 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      marco para texto_0: 2932093670209900612
+      BasuraCom_0: -649316558960854988
+      BasuraCom_1: 3467515352269023065
+      BasuraCom_2: -568479103487087455
+      BasuraCom_3: 4317559352576242134
+      BasuraCom_4: -2512753579002520261
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

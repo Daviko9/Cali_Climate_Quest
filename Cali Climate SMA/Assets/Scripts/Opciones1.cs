@@ -16,15 +16,22 @@ public class ButtonManager : MonoBehaviour
 
     void GoodButtonClicked()
     {
-        goodButton.image.color = Color.green;
-        badButton.interactable = false;
+        goodButton.gameObject.SetActive(false); // Desactiva el botón malo
+        badButton.gameObject.SetActive(false); // Desactiva el botón malo
         canvasBueno.SetActive(true);
     }
 
     void BadButtonClicked()
     {
-        badButton.image.color = Color.red;
-        goodButton.interactable = false;
+        goodButton.gameObject.SetActive(false); // Desactiva el botón malo
+        badButton.gameObject.SetActive(false); // Desactiva el botón malo
         canvasMalo.SetActive(true);
+    }
+
+    public void PrenderBGotones()
+    {
+        goodButton.gameObject.SetActive(true); // Desactiva el botón malo
+        badButton.gameObject.SetActive(true); // Desactiva el botón malo
+
     }
 }
